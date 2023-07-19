@@ -2,6 +2,7 @@
 
 ## librasteve using this as a follow along to the [bootstrapwp tute](https://bootstrapwp.com/clean-starter-wordpress-theme-files/)
 
+... doing this on the exercises branch
 
 _s
 ===
