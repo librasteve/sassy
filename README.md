@@ -4,6 +4,8 @@
 
 ... doing this on the exercises branch
 
+- rak normalize --files-with-matches --dir='{!/node_modules/}' 
+
 _s
 ===
 
