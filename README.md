@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
+## librasteve using this as a follow along to the [bootstrapwp tute](https://bootstrapwp.com/clean-starter-wordpress-theme-files/)
+
+
 _s
 ===
 
